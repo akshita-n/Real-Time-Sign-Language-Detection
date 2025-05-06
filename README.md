@@ -25,5 +25,3 @@ This project leverages **Computer Vision** and **Deep Learning** to detect and c
 
 ---
 
-## 📁 Project Structure
-
